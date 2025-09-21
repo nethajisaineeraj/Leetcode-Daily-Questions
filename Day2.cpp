@@ -1,4 +1,4 @@
-// 966. Vowel Spellchecker
+// 966 Vowel Spellchecker
 
 class Solution
 {
